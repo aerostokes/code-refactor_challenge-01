@@ -4,6 +4,8 @@
 
 Refactor a webpage of the fictional marketing agency Horiseon to improve its accessibility and efficiency. 
 
+![image](./assets/images/Horiseon-site-screenshot.png)
+
 ## Installation
 
 N/A
@@ -11,6 +13,9 @@ N/A
 ## Usage
 
 Access the website at https://aerostokes.github.io/challenge-01/
+
+
+Note: Navigation bar does not function well on smaller screens, but performs equivalently to the original. Ignored this per the instructions set out in the challenge that this will be covered in a future lesson.
 
 ## Credits
 

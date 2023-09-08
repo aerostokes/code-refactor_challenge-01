@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Access the website at https://aerostokes.github.io/code-refactor_html-css/
+Access the website at https://aerostokes.github.io/code-refactor_challenge-01/
 
 
 Note: Navigation bar does not function well on smaller screens, but performs equivalently to the original. Ignored this per the instructions set out in the challenge that this will be covered in a future lesson.
